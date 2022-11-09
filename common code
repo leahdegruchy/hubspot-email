@@ -1,0 +1,5 @@
+Body color: #EAF0F5
+secondary color: #2D465D
+accent color: #FE5B35
+
+when the device goes below 600px the width of the table should just become 100%. 
